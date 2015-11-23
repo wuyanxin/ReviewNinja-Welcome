@@ -1,3 +1,5 @@
+[![ReviewNinja](http://144.168.59.222:5000/45770732/badge)](http://144.168.59.222:5000/wuyanxin/jenkins_github_test)
+
 # ReviewNinja-Welcome
 
 **Thanks for letting us show you around!**
